@@ -1,0 +1,9 @@
+{
+  "num_trains": 38,
+  "total_min_late": 122,
+  "avg_min_late": "3.2",
+  "num_trains_over_5_min_late": 11,
+  "num_trains_over_15_min_late": 0,
+  "num_trains_over_30_min_late": 0,
+  "timestamp": "2018-09-06T19:07:13"
+}

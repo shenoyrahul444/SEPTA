@@ -1,0 +1,382 @@
+[
+  {
+    "id": "1088-Suburban Sta",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "40.0063155",
+    "lon": "-75.231629166667",
+    "nextstop": "Bala",
+    "source": "Cynwyd",
+    "dest": "Suburban Sta"
+  },
+  {
+    "id": "2371-Elwyn",
+    "time": "2018-09-06T19:08:04",
+    "late": "1",
+    "lat": "39.907956166667",
+    "lon": "-75.328777666667",
+    "nextstop": "Swarthmore",
+    "source": "Norristown",
+    "dest": "Elwyn"
+  },
+  {
+    "id": "2386-West Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "40.0920935",
+    "lon": "-75.137245333333",
+    "nextstop": "Jenkintown-Wyncote",
+    "source": "30th St",
+    "dest": "West Trenton"
+  },
+  {
+    "id": "2450-Warminster",
+    "time": "2018-09-06T19:08:04",
+    "late": "1",
+    "lat": "40.178493",
+    "lon": "-75.101452333333",
+    "nextstop": "Warminster",
+    "source": "University City",
+    "dest": "Warminster"
+  },
+  {
+    "id": "264-Norristown",
+    "time": "2018-09-06T19:08:04",
+    "late": "7",
+    "lat": "40.011901833333",
+    "lon": "-75.1937705",
+    "nextstop": "Wissahickon",
+    "source": "Wilmington",
+    "dest": "Norristown"
+  },
+  {
+    "id": "373-Elwyn",
+    "time": "2018-09-06T19:08:04",
+    "late": "2",
+    "lat": "40.04325",
+    "lon": "-75.134833166667",
+    "nextstop": "Fern Rock TC",
+    "source": "West Trenton",
+    "dest": "Elwyn"
+  },
+  {
+    "id": "3755-Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "13",
+    "lat": "40.033110666667",
+    "lon": "-75.022945",
+    "nextstop": "Torresdale",
+    "source": "West Trenton",
+    "dest": "Trenton"
+  },
+  {
+    "id": "384-West Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "8",
+    "lat": "40.2458635",
+    "lon": "-74.8217305",
+    "nextstop": "West Trenton",
+    "source": "Elwyn",
+    "dest": "West Trenton"
+  },
+  {
+    "id": "388-West Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "2",
+    "lat": "39.9455825",
+    "lon": "-75.225168333333",
+    "nextstop": "49th St",
+    "source": "Elwyn",
+    "dest": "West Trenton"
+  },
+  {
+    "id": "4269-Wilmington",
+    "time": "2018-09-06T19:08:04",
+    "late": "3",
+    "lat": "40.095405833333",
+    "lon": "-75.139040666667",
+    "nextstop": "Jenkintown-Wyncote",
+    "source": "Glenside",
+    "dest": "Wilmington"
+  },
+  {
+    "id": "454-Glenside",
+    "time": "2018-09-06T19:06:23",
+    "late": "2",
+    "lat": "40.101403666667",
+    "lon": "-75.153845",
+    "nextstop": "Jenkintown-Wyncote",
+    "source": "Airport",
+    "dest": "Glenside"
+  },
+  {
+    "id": "456-Warminster",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.953094544",
+    "lon": "-75.162311047",
+    "nextstop": "Jefferson Station",
+    "source": "Airport",
+    "dest": "Warminster"
+  },
+  {
+    "id": "4571-Thorndale",
+    "time": "2018-09-06T19:08:04",
+    "late": "11",
+    "lat": "40.0020215",
+    "lon": "-75.711025666667",
+    "nextstop": "Downingtown",
+    "source": "Warminster",
+    "dest": "Thorndale"
+  },
+  {
+    "id": "458-Glenside",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.878995833333",
+    "lon": "-75.240123833333",
+    "nextstop": "Airport Terminal E-F",
+    "source": "Airport Terminal E-F",
+    "dest": "Glenside"
+  },
+  {
+    "id": "461-Airport",
+    "time": "2018-09-06T19:08:04",
+    "late": "1",
+    "lat": "40.022866333333",
+    "lon": "-75.159605666667",
+    "nextstop": "Temple U",
+    "source": "Warminster",
+    "dest": "Airport"
+  },
+  {
+    "id": "5265-Newark",
+    "time": "2018-09-06T19:08:04",
+    "late": "9",
+    "lat": "39.912621",
+    "lon": "-75.256319833333",
+    "nextstop": "Curtis Park",
+    "source": "Lansdale",
+    "dest": "Newark"
+  },
+  {
+    "id": "573-Malvern",
+    "time": "2018-09-06T19:08:04",
+    "late": "4",
+    "lat": "40.0441595",
+    "lon": "-75.373406",
+    "nextstop": "Wayne-A",
+    "source": "Link Belt",
+    "dest": "Malvern"
+  },
+  {
+    "id": "575-Thorndale",
+    "time": "2018-09-06T19:08:04",
+    "late": "10",
+    "lat": "39.958019666667",
+    "lon": "-75.185510666667",
+    "nextstop": "Overbrook",
+    "source": "Doylestown",
+    "dest": "Thorndale"
+  },
+  {
+    "id": "577-Thorndale",
+    "time": "2018-09-06T19:08:04",
+    "late": "2",
+    "lat": "39.9528297195",
+    "lon": "-75.1588541815",
+    "nextstop": "Suburban Station",
+    "source": "Lansdale",
+    "dest": "Thorndale"
+  },
+  {
+    "id": "579-Malvern",
+    "time": "2018-09-06T19:08:04",
+    "late": "4",
+    "lat": "40.1702395",
+    "lon": "-75.244428666667",
+    "nextstop": "Ambler",
+    "source": "Lansdale",
+    "dest": "Malvern"
+  },
+  {
+    "id": "580-Colmar-Link Belt",
+    "time": "2018-09-06T19:08:04",
+    "late": "5",
+    "lat": "40.2686885",
+    "lon": "-75.253906666667",
+    "nextstop": "Link Belt",
+    "source": "Thorndale",
+    "dest": "Colmar-Link Belt"
+  },
+  {
+    "id": "582-Lansdale",
+    "time": "2018-09-06T19:08:04",
+    "late": "8",
+    "lat": "40.143181333333",
+    "lon": "-75.218141",
+    "nextstop": "Ambler",
+    "source": "Malvern",
+    "dest": "Lansdale"
+  },
+  {
+    "id": "584-Doylestown",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.959595275",
+    "lon": "-75.15268331",
+    "nextstop": "Temple U",
+    "source": "Thorndale",
+    "dest": "Doylestown"
+  },
+  {
+    "id": "586-Lansdale",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.9735585",
+    "lon": "-75.214355333333",
+    "nextstop": "30th Street Station",
+    "source": "Malvern",
+    "dest": "Lansdale"
+  },
+  {
+    "id": "588-Doylestown",
+    "time": "2018-09-06T19:08:04",
+    "late": "4",
+    "lat": "40.042788666667",
+    "lon": "-75.462324166667",
+    "nextstop": "Daylesford",
+    "source": "Malvern",
+    "dest": "Doylestown"
+  },
+  {
+    "id": "6267-30th St",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.9546798",
+    "lon": "-75.170957215",
+    "nextstop": "30th Street Station",
+    "source": "Norristown",
+    "dest": "30th St"
+  },
+  {
+    "id": "6598-Doylestown",
+    "time": "2018-09-06T19:04:43",
+    "late": "0",
+    "lat": "40.305103666667",
+    "lon": "-75.1318885",
+    "nextstop": "Doylestown",
+    "source": "30th St",
+    "dest": "Doylestown"
+  },
+  {
+    "id": "757-Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "5",
+    "lat": "39.975343",
+    "lon": "-75.19538",
+    "nextstop": "North Philadelphia",
+    "source": "Chestnut H East",
+    "dest": "Trenton"
+  },
+  {
+    "id": "759-Trenton",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.992435333333",
+    "lon": "-75.1540545",
+    "nextstop": "Temple U",
+    "source": "Chestnut H East",
+    "dest": "Trenton"
+  },
+  {
+    "id": "768-Chestnut H East",
+    "time": "2018-09-06T19:08:04",
+    "late": "5",
+    "lat": "39.997137333333",
+    "lon": "-75.155790166667",
+    "nextstop": "30th Street Station",
+    "source": "Trenton",
+    "dest": "Chestnut H East"
+  },
+  {
+    "id": "8266-Norristown",
+    "time": "2018-09-06T19:08:04",
+    "late": "1",
+    "lat": "40.062522333333",
+    "lon": "-75.198795",
+    "nextstop": "Allen Lane",
+    "source": "Chestnut H West",
+    "dest": "Norristown"
+  },
+  {
+    "id": "845-Chestnut H West",
+    "time": "2018-09-06T19:08:04",
+    "late": "5",
+    "lat": "39.996988166667",
+    "lon": "-75.1567575",
+    "nextstop": "North Philadelphia",
+    "source": "Temple U",
+    "dest": "Chestnut H West"
+  },
+  {
+    "id": "8459-Airport",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.936207833333",
+    "lon": "-75.215225666667",
+    "nextstop": "Eastwick Station",
+    "source": "Fox Chase",
+    "dest": "Airport"
+  },
+  {
+    "id": "851-Chestnut H West",
+    "time": "2018-09-06T19:08:04",
+    "late": "3",
+    "lat": "39.98060",
+    "lon": "-75.14987",
+    "nextstop": "Temple U",
+    "source": "Temple U",
+    "dest": "Chestnut H West"
+  },
+  {
+    "id": "8764-Chestnut H East",
+    "time": "2018-09-06T19:08:04",
+    "late": "0",
+    "lat": "39.95261",
+    "lon": "-75.15925",
+    "nextstop": "Temple U",
+    "source": "Chestnut H West",
+    "dest": "Chestnut H East"
+  },
+  {
+    "id": "9254-Temple U",
+    "time": "2018-09-06T19:08:04",
+    "late": "2",
+    "lat": "39.712079166667",
+    "lon": "-75.607974333333",
+    "nextstop": "Wilmington",
+    "source": "Newark",
+    "dest": "Temple U"
+  },
+  {
+    "id": "9268-Temple U",
+    "time": "2018-09-06T19:08:04",
+    "late": "1",
+    "lat": "39.821612833333",
+    "lon": "-75.41959",
+    "nextstop": "Marcus Hook",
+    "source": "Marcus Hook",
+    "dest": "Temple U"
+  },
+  {
+    "id": "9770-Temple U",
+    "time": "2018-09-06T19:07:13",
+    "late": "3",
+    "lat": "40.191689166667",
+    "lon": "-74.78249",
+    "nextstop": "Levittown",
+    "source": "Trenton",
+    "dest": "Temple U"
+  }
+]
